@@ -1,0 +1,22 @@
+---
+title: "BrendaEstrada"
+image: "files/profile_pic.jpg"
+about: 
+    template: jolla
+    links: 
+    - icon: envelope 
+      href: mailto:Brestrada6479@gmail.com 
+    - icon: linkedin
+      href: https://www.linkedin.com/in/brenda-estrada-rodriguez-aa4849256
+      
+---
+
+Welcome to my Website! 
+
+About me: 
+
+
+
+My Journey: 
+
+

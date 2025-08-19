@@ -1,0 +1,13 @@
+/* css styles */
+
+.card-body {
+  background-color: WhiteSmoke;
+}
+
+.card-title {
+  color: black; 
+}
+
+.listing-description { 
+  color: black;
+}

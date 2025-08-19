@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Brenda Estrada"
+  navbar: 
+    left:
+      - href: index.qmd
+        text: About
+      - href: Resume.qmd 
+        text: Resume 
+      - href: projects.qmd 
+        text: Projects
+      - href: ThePeopleProject.qmd
+        text: The People Project 
+     
+
+format:
+  html:
+    theme: darkly 
+    css: styles.css
+    toc: true
+
+
+

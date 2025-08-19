@@ -1,0 +1,17 @@
+{
+  "hash": "3574dc7ef48ac7556418d645c7b00206",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"New Directions 24\"\nauthor: Brenda Estrada \ndate: today \n---\n\n\n\n# Header \n\nI'm building my first website \n\n## sub-header \n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse) \ndata(mtcars)\nmtcars |> \n  ggplot(aes(mpg, disp)) +\n  geom_point(color = \"dodgerblue4\", size = 2)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
